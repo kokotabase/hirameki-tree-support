@@ -1,6 +1,7 @@
 body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif;max-width:720px;margin:0 auto;padding:24px 20px 64px;line-height:1.85;color:#1e1b4b;background:#f3f4ff;-webkit-text-size-adjust:100%}
 header{padding:8px 0 24px;display:flex;align-items:center;gap:10px}
 header img{width:36px;height:36px;border-radius:9px}
+.lang{margin-left:auto;font-size:14px;font-weight:600}
 .brand{font-weight:800;font-size:18px;letter-spacing:.02em;color:#1e1b4b;text-decoration:none}
 h1{font-size:28px;line-height:1.4;margin:8px 0 16px}
 h2{font-size:18px;margin-top:32px}
